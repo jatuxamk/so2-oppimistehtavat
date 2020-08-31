@@ -8,7 +8,7 @@ Tämä on malli (template) Sovellusohjelmointi 2 -opintojakson oppimistehtävien
 
 2. Voit nimetä kopiosi haluamallasi tavalla, mutta varmista, että luot uuden repositoryn yksityisenä (private)
 
-3. Kun olen luodun uuden repositoryn, määritä aluksi collaborator-käyttöoikeus opettajalle, GitHub-tunnus *jatuxamk*. (Settings > Manage access > Invite a collaborator)
+3. Kun olet luonut uuden repositoryn, määritä aluksi collaborator-käyttöoikeus opettajalle, GitHub-tunnus *jatuxamk*. (Settings > Manage access > Invite a collaborator)
 
 4. Kloonaa repositorysi paikalliseksi omalle koneelleesi (git clone *repositoryn_osoite*) ja ylläpidä repositoryjä Git-työkulun mukaisesti:
 
@@ -18,4 +18,4 @@ Tämä on malli (template) Sovellusohjelmointi 2 -opintojakson oppimistehtävien
 
 **Huom!** Muista tehdä ym. git-komennot tämän repositoryn juuressa eli samassa kansiossa missä tämä README.md -tiedosto sijaitsee.
 
-Voit soveltaa repositorya kuten haluat. Voit tehdä oppimistehtävät suoraan repositoryyn tai voit tehdä koodausta muualla ja kopioida valmiit koodit tähän reposistoryyn. Tärkeintä on koodit ovat opettajan luettavissa GitHubissa tehtäväraportin palautuksen yhteydessä.
+Voit soveltaa repositorya kuten haluat. Voit tehdä oppimistehtävät suoraan repositoryyn tai voit tehdä koodausta muualla ja kopioida valmiit koodit tähän reposistoryyn. Tärkeintä on, että koodit ovat opettajan luettavissa GitHubissa tehtäväraportin palautuksen yhteydessä.
