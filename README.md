@@ -18,4 +18,4 @@ Tämä on malli (template) Sovellusohjelmointi 2 -opintojakson oppimistehtävien
 
 **Huom!** Muista tehdä ym. git-komennot tämän repositoryn juuressa eli samassa kansiossa missä tämä README.md -tiedosto sijaitsee.
 
-Voit soveltaa repositorya kuten haluat. Voit tehdä oppimistehtävät suoraan repositoryyn tai voit tehdä koodausta muualla ja kopioida valmiit koodit tähän reposistoryyn. Tärkeintä on koodit ovat opettajan luettavissa GitHubissa tehtäväraportin palutksen yhteydessä.
+Voit soveltaa repositorya kuten haluat. Voit tehdä oppimistehtävät suoraan repositoryyn tai voit tehdä koodausta muualla ja kopioida valmiit koodit tähän reposistoryyn. Tärkeintä on koodit ovat opettajan luettavissa GitHubissa tehtäväraportin palautuksen yhteydessä.
